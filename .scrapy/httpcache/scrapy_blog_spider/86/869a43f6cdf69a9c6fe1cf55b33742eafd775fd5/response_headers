@@ -1,0 +1,14 @@
+Content-Length: 78
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Age: 204529
+Cache-Control: public, max-age=0, must-revalidate
+Content-Disposition: inline; filename="robots.txt"
+Content-Type: text/plain; charset=utf-8
+Date: Fri, 01 Dec 2023 09:49:40 GMT
+Etag: "3046b8859e7b552058873e4e946ed5e0"
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+X-Matched-Path: /robots.txt
+X-Vercel-Cache: HIT
+X-Vercel-Id: hnd1::cjxdq-1701424180726-47c8725badf6
