@@ -1,5 +1,4 @@
 import scrapy
-from ticketWatch.items import Post
 
 class ScrapyBlogSpiderSpider(scrapy.Spider):
     name = "scrapy_blog_spider"
