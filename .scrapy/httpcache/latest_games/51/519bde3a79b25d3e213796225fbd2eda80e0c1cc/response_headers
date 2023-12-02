@@ -1,3 +1,4 @@
+Content-Length: 84089
 Server: nginx
 Content-Type: text/html; charset=UTF-8
 Expires: Mon, 26 Jul 1997 05:00:00 GMT
@@ -7,7 +8,7 @@ X-Frame-Options: DENY
 Content-Encoding: gzip
 Vary: Accept-Encoding
 Strict-Transport-Security: max-age=10368000
-Date: Fri, 01 Dec 2023 11:19:21 GMT
+Date: Sat, 02 Dec 2023 13:46:44 GMT
 Set-Cookie: steamCountry=JP%7C56588ada63b7a0baaa16d0de1430f335; Path=/; Secure; HttpOnly; SameSite=None
-Set-Cookie: browserid=3216195939830009947; Expires=Sat, 30 Nov 2024 11:19:21 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sessionid=39943b243c6506de55a6fd76; Path=/; Secure; SameSite=None
+Set-Cookie: browserid=3243217537600636887; Expires=Sun, 01 Dec 2024 13:46:43 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: sessionid=b8a4c65af7dd37e948603663; Path=/; Secure; SameSite=None
